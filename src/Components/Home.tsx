@@ -234,6 +234,11 @@ function Home() {
             </>
           )}
         </div>
+
+        <footer className="mt-10 text-white text-xs font-light flex flex-col gap-2 lg:items-center ">Copyright © 2026 Chioma Ineh. All Rights Reserved. <br />
+          <p>Favicon by: <a href="https://www.flaticon.com/free-icons/rain" title="rain icons" target="_blank" className="underline">Rain icons created by Freepik - Flaticon</a></p>
+          <p>    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" className="underline">Frontend Mentor</a>. </p>
+        </footer>
       </main>
     </div>
   );
