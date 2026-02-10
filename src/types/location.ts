@@ -1,0 +1,9 @@
+export type Location = {
+    name: string;
+    country: string;
+    latitude:number;
+    longitude: number;
+    feature_code: string;
+    
+
+}

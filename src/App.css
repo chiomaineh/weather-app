@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+
+@import "tailwindcss";
+
+body {
+  /* background-color: hsl(243, 96%, 9%); */
+  font-family: "DM Sans", sans-serif;
+}
+
+.unit {
+  background-color: hsl(243, 23%, 30%);
+}
+
+
+
+.sky, .temp{
+    font-family: "Bricolage Grotesque", sans-serif;
+}
+
+.search {
+  background-color: hsl(233, 67%, 56%);
+  color: white;
+}
+
+.current {
+   background: linear-gradient(to right, hsl(233, 67%, 56%), hsl(248, 70%, 36%));
+}
